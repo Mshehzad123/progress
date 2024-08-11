@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "FirstProject.Person",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "AdjacencyList",
+            "request": "launch",
+            "mainClass": "GraphInDsa.AdjacencyList",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "ArticulationPoint",
+            "request": "launch",
+            "mainClass": "GraphInDsa.ArticulationPoint",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "BellManFordAlgo",
+            "request": "launch",
+            "mainClass": "GraphInDsa.BellManFordAlgo",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "Bfs",
+            "request": "launch",
+            "mainClass": "GraphInDsa.Bfs",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "BridgeFoundByTarjanAlgo",
+            "request": "launch",
+            "mainClass": "GraphInDsa.BridgeFoundByTarjanAlgo",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "CyclDirect",
+            "request": "launch",
+            "mainClass": "GraphInDsa.CyclDirect",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "CyclrInUndirectedGraph",
+            "request": "launch",
+            "mainClass": "GraphInDsa.CyclrInUndirectedGraph",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "Dfs",
+            "request": "launch",
+            "mainClass": "GraphInDsa.Dfs",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "DijkstrasAlgo",
+            "request": "launch",
+            "mainClass": "GraphInDsa.DijkstrasAlgo",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "GraphsKaSubGraphs",
+            "request": "launch",
+            "mainClass": "GraphInDsa.GraphsKaSubGraphs",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "KosaRajuAlgo",
+            "request": "launch",
+            "mainClass": "GraphInDsa.KosaRajuAlgo",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "PrimsAlgorithm",
+            "request": "launch",
+            "mainClass": "GraphInDsa.PrimsAlgorithm",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "PrintAllPAthFromSrsToDest",
+            "request": "launch",
+            "mainClass": "GraphInDsa.PrintAllPAthFromSrsToDest",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "TopologySort",
+            "request": "launch",
+            "mainClass": "GraphInDsa.TopologySort",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "bank",
+            "request": "launch",
+            "mainClass": "bank.bank",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "bank2",
+            "request": "launch",
+            "mainClass": "bank2.bank2",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "binerySearchTree",
+            "request": "launch",
+            "mainClass": "binerySearchTree",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "graph",
+            "request": "launch",
+            "mainClass": "graph",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "intersection",
+            "request": "launch",
+            "mainClass": "intersection",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "nBuilding",
+            "request": "launch",
+            "mainClass": "nBuilding",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "preOrderBineryTree",
+            "request": "launch",
+            "mainClass": "preOrderBineryTree",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "preOrderclass",
+            "request": "launch",
+            "mainClass": "preOrderclass",
+            "projectName": "DSA_f1fe6b9"
+        },
+        {
+            "type": "java",
+            "name": "singlyy",
+            "request": "launch",
+            "mainClass": "singlyy",
+            "projectName": "DSA_f1fe6b9"
+        }
+    ]
+}
